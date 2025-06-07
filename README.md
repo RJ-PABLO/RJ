@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>My First Web Page</title>
+
+    <link rel="stylesheet" target="Watch My Favorite Moments" href="styles.css">
+
+</head>
+
+
+
+<body>
+
+    <!-- Header Section -->
+
+    <header>
+
+        <h1>From The Municipality Of Basista <BR>RJ PABLO</BR></h1>
+
+        <h2>Welcome to my personal space!</h2>
+
+        <div class="header-logos">
+
+            <img src="1.jpg" alt="Logo 1" class="circle-logo">
+
+            <img src="2.jpg" alt="Logo 2" class="circle-logo">
+
+            <img src="3.jpg" alt="Logo 3" class="circle-logo">
+
+
+
+        </div>
+
+    </header>
+
+
+
+    <!-- Navigation Bar -->
+
+    <nav>
+
+        <ul class="navbar">
+
+            <li><a href="ABOUT ME.HTML">ABOUT ME</a></li>
+
+            <li class="dropdown-container">
+
+                <a href="#">KNOW ME &#x25BE;</a>
+
+                <ul class="dropdown">
+
+                    <li><a href="MY FAMILY.HTML">MY FAMILY</a></li>
+
+                    <li><a href="MY AMBITION.HTML">MY AMBITION</a></li>
+
+                    <li><a href="MY HOBBIES.HTML">MY HOBBIES</a></li>
+
+                </ul>
+
+            </li>
+
+            <li class="dropdown-container">
+
+                <a href="#">MY VACATION &#x25BE;</a>
+
+                <ul class="dropdown">
+
+                    <li><a href="43TH PANGASINAN JAMBOREE.HTML">43TH PANGASINAN JAMBOREE</a></li>
+
+                    <li><a href="44TH PANGASINAN JAMBOREE.HTML">44TH PANGASINAN JAMBOREE</a></li>
+
+                    <li><a href="AVELINO.HTML">AVELINO</a></li>
+
+                </ul>
+
+            </li>
+
+            <li class="dropdown-container">
+
+                <a href="#">FOLLOW ME &#x25BE;</a>
+
+                <ul class="dropdown">
+
+                    <li><a href="https://www.instagram.com/rj_isnt_scared/profilecard/?igsh=MWY4Y3J0cGIwcTNsdg==q" target="_blank">INSTAGRAM</a></li>
+
+                    <li><a href="https://www.facebook.com/share/1F8Q1ashYg/" target="_blank">FACEBOOK</a></li>
+
+                    <li><a href="https://www.tiktok.com/@ethanpablo15?_t=8rXzoI867ei&_r=1" target="_blank">TIKTOK</a></li>
+
+                </ul>
+
+            </li>
+
+        </ul>
+
+    </nav>
+
+
+
+
+
+    <!-- Middle Section -->
+
+    <section class="middle-content">
+
+        <div class="middle-images">
+
+            <div class="image-item">
+
+                <img src="462652014_1654355528757985_2374655183737622255_n.jpg" alt="Middle Image 1">
+
+                <p>This is an inspiring story about how dedication and hard work can help overcome challenges.</p>
+
+            </div>
+
+            <div class="image-item">
+
+                <img src="462551586_8280043222101340_6817577357041676493_n.jpg" alt="Middle Image 2">
+
+                <p>Exploring new hobbies and ambitions is key to personal growth and self-discovery.</p>
+
+            </div>
+
+            <div class="image-item">
+
+                <img src="462543755_1650971072435756_3734056297085220514_n.jpg" alt="Middle Image 3">
+
+                <p>Memories from vacations that bring joy and valuable experiences to life.</p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+       <!-- Footer Section -->
+
+    <footer>
+
+        <p>&copy; 2024 Ethan Pablo. All Rights Reserved.</p>
+
+        <marquee behavior="scroll" direction="left" class="marquee">
+
+            Thank you for visiting my website! Stay connected and follow me on social media!
+
+        </marquee>
+
+    </footer>
+
+</body>
+
+
+
+</html>
